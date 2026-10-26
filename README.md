@@ -17,3 +17,7 @@ A sample HealthTracker project for an Agile Software Development lab.
 
 ## Development Workflow
 This repository demonstrates GitHub branches, commits, and pull requests linked to Jira work items.
+## HA-1 Requirements
+- Gather user requirements.
+- Document the initial application scope.
+- Review and approve requirements.
